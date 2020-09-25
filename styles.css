@@ -1,0 +1,54 @@
+.pokeInput {
+    text-align: center;
+}
+
+.flexBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.searchFlexParent {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.bigParent {
+    border:solid thick black;
+    border-radius: 20px;
+    width: 90%;
+    margin: auto;
+}
+
+
+.search {
+    width: 260px;
+}
+
+#pokeName {
+    text-align: center;
+}
+
+#pokeNumber {
+    text-align: center;
+}
+
+
+#sprite {
+    text-align: center;
+}
+
+#pokeImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150%;
+}
+
+#pokeShiny {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150%;
+}
