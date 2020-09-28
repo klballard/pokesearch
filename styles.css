@@ -19,15 +19,17 @@
     border-radius: 20px;
     width: 90%;
     margin: auto;
+    padding: 15px;
 }
 
 
 .search {
-    width: 260px;
+    width: 275px;
 }
 
 #pokeName {
     text-align: center;
+    text-transform: capitalize;
 }
 
 #pokeNumber {
